@@ -41,6 +41,6 @@ print(bubble_sort(my_arr))
 # STRETCH: implement the Count Sort function below
 def count_sort(arr, maximum=-1):
     # Your code here
-
+    
 
     return arr
